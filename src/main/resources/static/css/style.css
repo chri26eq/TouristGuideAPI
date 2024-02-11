@@ -1,0 +1,14 @@
+
+body {
+    background-color: #fdf0d5;
+    color: black;
+}
+.main_heading {
+    font-style: italic;
+    font-family: "Comic Sans MS", serif;
+}
+
+
+img {
+    width: calc(100% - 20px);
+}
